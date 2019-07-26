@@ -1,0 +1,7 @@
+﻿mnist文件夹是数据集
+
+log_softmax文件夹是event
+
+mnist_cnn是保存的模型
+log_5_layers_relu_softmax文件夹是event
+log_5_layers_softmax_dropout文件夹是event
